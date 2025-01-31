@@ -23,8 +23,10 @@ npm start
 - Each correct guess earns you 10 points.
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/b295b341-a417-42e3-98e3-3509c649e4f1)
-![image](https://github.com/user-attachments/assets/7aa12f20-b6a6-48eb-8805-6da416936ca1)
+![image](https://github.com/user-attachments/assets/49e06a8e-9363-4a5d-bd8f-6eeb1f2b549f)
+![image](https://github.com/user-attachments/assets/6f347532-a629-40fd-8b42-4c43634e9c04)
+
+
 
 
 
