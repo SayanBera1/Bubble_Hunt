@@ -22,4 +22,7 @@ npm start
 - Collect power-ups to enhance your abilities.
 - Avoid obstacles and enemies to survive.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/b295b341-a417-42e3-98e3-3509c649e4f1)
+
 
