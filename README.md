@@ -17,12 +17,14 @@ npm start
 
 
 ## Usage
-- Use the arrow keys to move.
-- Press the spacebar to shoot bubbles.
-- Collect power-ups to enhance your abilities.
-- Avoid obstacles and enemies to survive.
+- Choose any one bubble visible in the hit section.
+- After you select, all bubbles will change.
+- This process continues for 60 seconds.
+- Each correct guess earns you 10 points.
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/b295b341-a417-42e3-98e3-3509c649e4f1)
+![image](https://github.com/user-attachments/assets/7aa12f20-b6a6-48eb-8805-6da416936ca1)
+
 
 
