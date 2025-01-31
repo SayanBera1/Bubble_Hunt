@@ -38,7 +38,7 @@ function increaseScore() {
     document.querySelector(`#scoreval`).textContent = score;
 }
 
-document.querySelector("#pbtm").addEventListener("click", function (dets) {
+document.querySelector( "#pbtm" ).addEventListener("click", function (dets){
     var clickedNum = Number(dets.target.textContent);
     if (clickedNum === hitrn) {
         playSound("#clickSound");
