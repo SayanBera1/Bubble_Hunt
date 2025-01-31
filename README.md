@@ -4,15 +4,15 @@ Bubble_Hunt is an exciting and engaging game where players embark on a thrilling
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/username/Bubble_Hunt.git
+git clone [https://github.com/username/Bubble_Hunt.git](https://github.com/SayanBera1/Bubble_Hunt)
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 cd Bubble_Hunt
 
-3. Install the dependencies:
+4. Install the dependencies:
 npm install
 
-4. Run the game:
+5. Run the game:
 npm start
 
 
